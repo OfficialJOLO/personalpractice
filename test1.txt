@@ -1,2 +1,0 @@
-annyeonghaseyo 
-- practice javascript
