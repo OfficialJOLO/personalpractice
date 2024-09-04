@@ -67,3 +67,5 @@ app.post("/fruits", (req, res) => {
     message: `${db.get(id - 1).fruitName}이 판매 시작됩니다`,
   });
 });
+
+// 완료
